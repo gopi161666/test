@@ -32,6 +32,7 @@ pipeline {
                 """
             }
         }
+     } 
 
         stage('Code Checkout') {
             steps {
